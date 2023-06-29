@@ -19,3 +19,5 @@ Admin lam kieu khac
 
 
 anPtit co dong gop moi cho admin
+
+Anpt khong biet Admin da sua file va tiep tuc lam viec  
